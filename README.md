@@ -1,2 +1,2 @@
-# caddy-app-sample
-Quick sample app to test out Caddy
+# caddy-sample
+sample caddy config app for LL authors
